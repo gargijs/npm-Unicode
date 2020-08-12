@@ -15,7 +15,7 @@
 
 ### Installation of package🚩
 ```bash
-  npm i pass-encrypto
+  npm i unicodegen
 ```
 
 ### How to import package?
