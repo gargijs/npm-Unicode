@@ -1,4 +1,4 @@
-/**const { compact } = require("lodash");
+const { compact } = require("lodash");
 
 const randnum=(num=0)=>{
    
@@ -28,15 +28,11 @@ const randnum=(num=0)=>{
              console.log(m+n+o+p);         
 
 }
-randnum();*/
+randnum();
 
 
   
 
-
-const {unicode}= require("uni-code");
-  let data="password";
-  const returnValue=unicode(data);
 
   
 

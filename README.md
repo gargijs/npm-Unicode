@@ -1,54 +1,49 @@
 <p align="center">
   <a>
-    <img src="./uniid.png" width = "1400px"/>
+    <img src="./unicode.png" width = "1400px"/>
   </a>
 </p>
 <h1 align="center">
- Unicode
+ Uni-code
 </h1>
 
  
- 
 </p>
+### What is uni-code?
+* Uni-code is a npm package that generates random code each time.
+* It uses 5 layers of encryption.
 
-## What is Unicode?⚓
-* Unicode is a npm package that generates unique code every time.
-* It uses 5 layers of encryption.🏛
-
-
-# How to use Unicode?
-### Installation of package
+### Installation of package🚩
 ```bash
-  npm i unicode
+  npm i pass-encrypto
 ```
 
-
-### How to import package?🖊
+### How to import package?
 ```bash
-  const {unicode}= require("uni-code");
+  const {uniocde}= require("uni-code");
   ```
 
-### Uses👀
+### Uses
+```javascript
 
-```bash
-const {unicode}= require("uni-code");
+  const {uniocde}= require("uni-code");
   let data="password";
   const returnValue=unicode(data);
-
   ```
   
 
 
-# API's Available:✒
+# API's Available:
 ```bash
-unicode("String");
+unicode();
 ```
 
-
+# Note
+* Passed Value can be anything.
 
 # ThankYou ❤
 <p align="center">
-<img src="./unilogo.png" width="400" height ="200">
+<img src="./unid.png" width="400" height ="200">
 </p>
 
 <h1 align="center">
